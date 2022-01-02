@@ -49,10 +49,10 @@
 
 ![](https://github.com/Mousse10/Neural_Network_Charity_Analysis/blob/main/Resources/Capture4.PNG)
 
-Following our attempts, we came close but were not able to achieve the target model performance. We tried removing noisey variables, adding neurons, adding hiden layers and we tried changing the ctivation function of hidden layers or output layers. 
+  Following our attempts, we came close but were not able to achieve the target model performance. We tried removing noisey variables, adding neurons, adding hiden layers and we tried changing the ctivation function of hidden layers or output layers. 
 
 ## Summary
 
-The deep learning neural network model did not reach the target of 75% accuracy. Considering that this target level is pretty average we could say that the model is not outperforming. Since we are in a binary classification situation, we could use a supervised machine learning model such as the Random Forest Classifier to combine a multitude of decision trees to generate a classified output and evaluate its performance against our deep learning model.
+  The deep learning neural network model did not reach the target of 75% accuracy. Considering that this target level is pretty average we could say that the model is not outperforming. Since we are in a binary classification situation, we could use a supervised machine learning model such as the Random Forest Classifier to combine a multitude of decision trees to generate a classified output and evaluate its performance against our deep learning model.
 
 
