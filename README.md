@@ -20,12 +20,16 @@
 - 80 neurons (Layer1), 30 neurons(Layer2).
 - Used Relu and Sigmoid Activations Functions since sigmoid is best for binary classifcation problems as this and relu is for nonlinear datasets.
 
+![](https://github.com/Mousse10/Neural_Network_Charity_Analysis/blob/main/Resources/Capture1.PNG)
+
 #### Attempt 2
 
 - 2 Hidden Layers.
 - 80 neurons (Layer1), 30 neurons(Layer2).
 - Used Relu and Sigmoid Activations Functions since sigmoid is best for binary classifcation problems as this and relu is for nonlinear datasets.
   Removed "USE_CASE_Other","AFFILIATION_Other" columns.
+
+![](https://github.com/Mousse10/Neural_Network_Charity_Analysis/blob/main/Resources/Capture2.PNG)
 
 #### Attempt 3
 
@@ -34,6 +38,8 @@
 - Used Relu and Sigmoid Activations Functions since sigmoid is best for binary classifcation problems as this and relu is for nonlinear datasets.
 - Removed "USE_CASE_Other","AFFILIATION_Other" columns.
 
+![](https://github.com/Mousse10/Neural_Network_Charity_Analysis/blob/main/Resources/Capture3.PNG)
+
 #### Attempt 4 
 
 - 3 Hidden Layers
@@ -41,6 +47,6 @@
 - Reordered Relu and Sigmoid Activations
 - Used the original dataset
 
-
+![](https://github.com/Mousse10/Neural_Network_Charity_Analysis/blob/main/Resources/Capture4.PNG)
 
 
